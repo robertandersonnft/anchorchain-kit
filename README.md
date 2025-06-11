@@ -1,4 +1,4 @@
-# AnchorChain-Kit
+# AnchorChain-Kit-protocol
 
 **The first step in pairing the real world with the blockchain.**
 
